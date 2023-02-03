@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Customer/CustomerService.iml" filepath="$PROJECT_DIR$/Customer/CustomerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discovery/DiscoveryService.iml" filepath="$PROJECT_DIR$/Discovery/DiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mise-en-uvre-des-architecture-micro-services-avec-Spring-Cloud-masterGateWay/Gateway.iml" filepath="$PROJECT_DIR$/Mise-en-uvre-des-architecture-micro-services-avec-Spring-Cloud-masterGateWay/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invontory/InventoryService.iml" filepath="$PROJECT_DIR$/Invontory/InventoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetJEE.iml" filepath="$PROJECT_DIR$/.idea/ProjetJEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bill/billingService.iml" filepath="$PROJECT_DIR$/Bill/billingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supplierService/supplierService.iml" filepath="$PROJECT_DIR$/supplierService/supplierService.iml" />
+    </modules>
+  </component>
+</project>

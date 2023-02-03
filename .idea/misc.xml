@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Bill/pom.xml" />
+        <option value="$PROJECT_DIR$/Customer/pom.xml" />
+        <option value="$PROJECT_DIR$/Discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/Invontory/pom.xml" />
+        <option value="$PROJECT_DIR$/billingSupplierService/supplierService/pom.xml" />
+        <option value="$PROJECT_DIR$/Mise-en-uvre-des-architecture-micro-services-avec-Spring-Cloud-masterGateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/supplierService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
